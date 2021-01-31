@@ -3,6 +3,8 @@
 [](url)
 ![Screenshot_2021-01-30 Figma(1)](https://user-images.githubusercontent.com/55536560/106356894-60009700-6335-11eb-97c9-185bca17066c.png)
 
+[](https://img.shields.io/github/license/rizalihwan/perpustakaan?style=flat-square) 
+
 ### 🤔 Apa itu Perpustakaan?
 Web Perpustakaan Open Source yang dibuat oleh <a href="https://github.com/rizalihwan"> Rizal Ihwan Sulaiman. </a> **Perpustakaan adalah website peminjaman dan pengembalian buku di perpustakaan.** Perpustakaan dibuat untuk memudahkan proses peminjaman dan pengembalian buku dengan mudah.
 
