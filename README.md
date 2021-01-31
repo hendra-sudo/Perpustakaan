@@ -3,7 +3,8 @@
 [](url)
 ![Screenshot_2021-01-30 Figma(1)](https://user-images.githubusercontent.com/55536560/106356894-60009700-6335-11eb-97c9-185bca17066c.png)
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+### 🤔 Apa itu Learnify?
+Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/syauqi"> SYAUQIZAIDAN KHAIRAN KHALAF. </a> **Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis.** Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
