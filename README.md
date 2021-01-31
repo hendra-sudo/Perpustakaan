@@ -3,8 +3,8 @@
 [](url)
 ![Screenshot_2021-01-30 Figma(1)](https://user-images.githubusercontent.com/55536560/106356894-60009700-6335-11eb-97c9-185bca17066c.png)
 
-### 🤔 Apa itu Learnify?
-Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/syauqi"> SYAUQIZAIDAN KHAIRAN KHALAF. </a> **Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis.** Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
+### 🤔 Apa itu Perpustakaan?
+Web Perpustakaan Open Source yang dibuat oleh <a href="https://github.com/rizalihwan"> Rizal Ihwan Sulaiman. </a> **Perpustakaan adalah website peminjaman dan oengembalian buku.** Perpustkaan dibuat untuk memudahkan proses peminjaman dan pengembalian buku pada perpustkaan dengan mudah.
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
