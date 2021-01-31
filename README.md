@@ -17,23 +17,24 @@ Untuk memudahkan peminjaman dan pengembalian buku di perpustakaan secara digital
 
 ## Installation
 1. Open your terminal and go to your `~/htdocs` folder.
-2. Clone this repository `git clone https://github.com/rizalihwan/point-of-sale.git`
-3. Go inside to folder by `cd point-of-sale`
+2. Clone this repository `git clone https://github.com/rizalihwan/perpustakaan.git`
+3. Go inside to folder by `cd perpustakaan`
 4. Run `composer install`
 5. Create `.env` file with command `cp .env.example .env`
 6. Generate key inside `.env` file by `php artisan key:generate`
-7. Start your XAMPP service
-8. Create database on XAMPP, example name: `db_laravel`
+7. Start your PGAdmin / Etc service
+8. Create database on PGAdmin panel, example name: `db_laravel`
 9. Open `.env` file and config your database:
     ```sh
     DB_DATABASE='db_laravel'
-10. Then run the seeder `php artisan db:seed`
+10. Then run the seeder `php artisan db:fresh` because this command for migrate tables & running seed.
 10. Start your local server `php artisan serve`
-11. Login with:
+11. Open link `localhost:8000` as default on your browser
+12. Login with:
     |Username|Password|Level|
     |:----|:------:|-------:|
     |admin|password|admin|
-11. Open link `localhost:8000` as default on your browser
+    |siswa|password|siswa|
 
 ## Contributing
 
