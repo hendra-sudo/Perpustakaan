@@ -4,7 +4,7 @@
 ![Screenshot_2021-01-30 Figma(1)](https://user-images.githubusercontent.com/55536560/106356894-60009700-6335-11eb-97c9-185bca17066c.png)
 
 ### 🤔 Apa itu Perpustakaan?
-Web Perpustakaan Open Source yang dibuat oleh <a href="https://github.com/rizalihwan"> Rizal Ihwan Sulaiman. </a> **Perpustakaan adalah website peminjaman dan pengembalian buku.** Perpustkaan dibuat untuk memudahkan proses peminjaman dan pengembalian buku pada perpustkaan dengan mudah.
+Web Perpustakaan Open Source yang dibuat oleh <a href="https://github.com/rizalihwan"> Rizal Ihwan Sulaiman. </a> **Perpustakaan adalah website peminjaman dan pengembalian buku di perpustakaan.** Perpustakaan dibuat untuk memudahkan proses peminjaman dan pengembalian buku dengan mudah.
 
 ### 🎉 Kenapa dibuat Open Source?
 Untuk memudahkan peminjaman dan pengembalian buku di perpustakaan secara digital. Dan untuk bahan belajar bagi yang ingin mempelajari framework Laravel.
