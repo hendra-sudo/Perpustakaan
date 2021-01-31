@@ -31,10 +31,10 @@ Untuk memudahkan peminjaman dan pengembalian buku di perpustakaan secara digital
 10. Start your local server `php artisan serve`
 11. Open link `localhost:8000` as default on your browser
 12. Login with:
-    |Username|Password|Level|
+    |Level|Username|Password|
     |:----|:------:|-------:|
-    |admin|password|admin|
-    |siswa|password|siswa|
+    |ADMIN|admin|password|
+    |SISWA|siswa|password|
 
 ## Contributing
 
