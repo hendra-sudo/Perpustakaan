@@ -3,7 +3,8 @@
 [](url)
 ![Screenshot_2021-01-30 Figma(1)](https://user-images.githubusercontent.com/55536560/106356894-60009700-6335-11eb-97c9-185bca17066c.png)
 
-[](https://img.shields.io/github/license/rizalihwan/perpustakaan?style=flat-square) 
+[![](https://img.shields.io/github/issues/zuramai/kelaskita?style=flat-square)](https://img.shields.io/github/issues/zuramai/kelaskita?style=flat-square) ![](https://img.shields.io/github/stars/zuramai/kelaskita?style=flat-square)
+![](https://img.shields.io/github/forks/zuramai/kelaskita?style=flat-square) ![](https://img.shields.io/github/license/zuramai/kelaskita?style=flat-square) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg?style=flat-square)](https://saythanks.io/to/zaidanline67%40gmail.com) [![HitCount](http://hits.dwyl.com/zuramai/https://github.com/zuramai/kelaskita.svg)](http://hits.dwyl.com/zuramai/https://github.com/zuramai/kelaskita)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg?style=flat-square)](https://code.visualstudio.com/) [![GitHub followers](https://img.shields.io/github/followers/zuramai.svg?style=flat-square&label=Follow&maxAge=2592000)](https://github.com/zuramai?tab=followers)
 
 ### 🤔 Apa itu Perpustakaan?
 Web Perpustakaan Open Source yang dibuat oleh <a href="https://github.com/rizalihwan"> Rizal Ihwan Sulaiman. </a> **Perpustakaan adalah website peminjaman dan pengembalian buku di perpustakaan.** Perpustakaan dibuat untuk memudahkan proses peminjaman dan pengembalian buku dengan mudah.
