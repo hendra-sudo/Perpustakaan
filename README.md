@@ -41,7 +41,7 @@ npm install
 copy .env.example .env
 ```
 
-2. **Buka ```.env``` lalu ubah baris berikut sesuai dengan databasemu yang ingin dipakai, karena di project saya menggunakan PostgreSQL jadi saya kasih contoh seperti berikut :**
+2. **Buka ```.env``` lalu ubah baris berikut sesuai dengan databasemu yang ingin dipakai, karena di project ini menggunakan PostgreSQL jadi saya kasih contoh seperti berikut :**
 ```
 DB_CONNECTION=pgsql
 DB_HOST=127.0.0.1
