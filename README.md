@@ -18,6 +18,18 @@ Untuk memudahkan peminjaman dan pengembalian buku di perpustakaan secara digital
 
 ------------
 
+ ### 👤 Default Akun untuk login
+	
+**Admin Default Akun**
+- Username: admin
+- Password: password
+
+**Siswa Default Akun**
+- Username: siswa
+- Password: password
+
+------------
+
 
 ## Installation
 1. Open your terminal and go to your `~/htdocs` folder.
