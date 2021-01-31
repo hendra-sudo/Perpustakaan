@@ -79,6 +79,5 @@ Sangat berterima kasih bagi yang ingin berkontribusi. **Karena Project ini saya 
 
 ------------
 
-- **Feel free to ask me at**
-- [Telegram](https://t.me/ihw_me/).
+- **Feel free to ask me at [Telegram](https://t.me/ihw_me/).**
 
