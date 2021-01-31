@@ -30,43 +30,55 @@ Untuk memudahkan peminjaman dan pengembalian buku di perpustakaan secara digital
 
 ------------
 
+## 💻 Install
 
-## Installation
-1. Open your terminal and go to your `~/htdocs` folder.
-2. Clone this repository `git clone https://github.com/rizalihwan/perpustakaan.git`
-3. Go inside to folder by `cd perpustakaan`
-4. Run `composer install`
-5. Create `.env` file with command `cp .env.example .env`
-6. Generate key inside `.env` file by `php artisan key:generate`
-7. Start your PGAdmin / Etc service
-8. Create database on PGAdmin panel, example name: `db_laravel`
-9. Open `.env` file and config your database:
-    ```sh
-    DB_DATABASE='db_laravel'
-10. Then run the seeder `php artisan db:fresh` because this command for migrate tables & running seed.
-10. Start your local server `php artisan serve`
-11. Open link `localhost:8000` as default on your browser
-12. Login with:
-    |Level|Username|Password|
-    |:----|:------:|-------:|
-    |ADMIN|admin|password|
-    |SISWA|siswa|password|
+1. **Clone Repository**
+```bash
+git clone https://github.com/rizalihwan/perpustakaan.git
+cd perpustakaan
+composer install
+npm install
+copy .env.example .env
+```
 
-## Contributing
+2. **Buka ```.env``` lalu ubah baris berikut sesuai dengan databasemu yang ingin dipakai, karena di project saya menggunakan PostgreSQL jadi saya kasih contoh seperti berikut :**
+```
+DB_CONNECTION=pgsql
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_DATABASE=perpus
+DB_USERNAME=postgres
+DB_PASSWORD=root
+```
 
-Thank you for considering contributing to my project! How to contribute:
-1. Fork this Application
-2. Create branch `git checkout -b yourName/develop`
-3. Commit your contribution `git commit -m "New Feature has been Added"`
-4. Push to your branch `git push origin yourName/develop`
-5. Create Pull Request
+3. **Instalasi website**
+```bash
+php artisan key:generate
+php artisan db:fresh (because i create new command for migrate tables & run the seeder)
+php artisan storage:link
+```
 
-## License
+4. **Jalankan website**
+```command
+php artisan serve
+```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## 🧑 Author
 
-## Contact Info
+👤 <a href="https://www.facebook.com/izal.whanz/"> **Rizal Ihwan**</a>
+- Facebook : <a href="https://www.facebook.com/izal.whanz/"> Rizal Ihwan</a>
+- LinkedIn : <a href="https://www.linkedin.com/in/rizal-ihwan-98a8a9199/"> Rizal Ihwan</a>
 
-Feel free to ask me at
+## 🤝 Contributing
+Sangat berterima kasih bagi yang ingin berkontribusi. **Karena Project ini saya selesaikan sendiri, tapi apabila anda ingin berkontribusi sangat dipersilahkan ya.**
+
+
+## 📝 License
+- Copyright © 2021 Rizal Ihwan.
+- **Perpustakaan is open-sourced software licensed under the MIT license.**
+
+------------
+
+- **Feel free to ask me at**
 - [Telegram](https://t.me/ihw_me/).
 
